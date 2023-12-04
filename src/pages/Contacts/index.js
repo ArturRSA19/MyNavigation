@@ -14,7 +14,7 @@ export default function Contacts({navigation}){
                     dataNascimento: '19/05/2003',
                     telefone: '(61) 999999999',
                     email: 'artur190503@outlook.com',
-                    ocupacao: 'Estudante',
+                    ocupacao: 'Estudante de Eng. de Software',
                 })}
                 >Information...</Text>
             </View>
@@ -29,7 +29,7 @@ export default function Contacts({navigation}){
                     dataNascimento: '11/10/2003',
                     telefone: '(61) 988888888',
                     email: 'alicelinda@yahoo.com',
-                    ocupacao: 'Estudante',
+                    ocupacao: 'Estudante de Arquitetura',
                 })}
                 >Information...</Text>
             </View>
